@@ -1,8 +1,0 @@
-{
-    "path": "/home/ubuntu/images",
-    "debug": false,
-    "update_time": 1,
-    "port": 3500,
-    "rgb_range": 10,
-    "random_select_max": 50
-}

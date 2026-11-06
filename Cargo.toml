@@ -1,7 +1,7 @@
 [package]
 name = "random-wallpaper-http"
 version = "2.0.0"
-edition = "2021"
+edition = "2024"
 description = "A small HTTP server which sends a random image from ./assets when requested. Supports requesting a minimum size."
 license = "MIT"
 authors = ["Quinn"]
